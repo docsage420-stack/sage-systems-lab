@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "brand": "Sage Systems Lab",
+  "shop_url": "https://www.etsy.com/shop/SageSystemsLab",
+  "website_url": "https://sagesystemslab.net/",
+  "verified_at": "2026-07-30",
+  "products": [
+    {
+      "product_id": "ssl-fin-clearspend",
+      "name": "ClearSpend Safe-to-Spend Calculator",
+      "format": "HTML tool",
+      "etsy_listing_id": "4499489444",
+      "etsy_url": "https://www.etsy.com/listing/4499489444",
+      "status": "active",
+      "primary_use": "Estimate what may be safe to spend before the next paycheck after fixed bills and a safety buffer.",
+      "compatibility": ["Windows", "macOS", "Linux", "Android", "iPhone/iPad hosted link"],
+      "claims": ["manual entry", "no bank sync", "no seller account", "desktop/Android offline after download"]
+    },
+    {
+      "product_id": "ssl-sheet-subscriptions",
+      "name": "Subscription Tracker Spreadsheet",
+      "format": "Google Sheets template",
+      "etsy_listing_id": "4501745162",
+      "etsy_url": "https://www.etsy.com/listing/4501745162",
+      "status": "active",
+      "primary_use": "Track recurring bills, renewal dates, categories, and monthly or annual subscription totals.",
+      "compatibility": ["Google Sheets", "Microsoft Excel compatible"],
+      "claims": ["manual entry", "no bank sync", "one-time digital download"]
+    },
+    {
+      "product_id": "ssl-fin-loan-extra-payment",
+      "name": "Extra Payment Loan Planner",
+      "format": "HTML tool",
+      "etsy_listing_id": "4512467903",
+      "etsy_url": "https://www.etsy.com/listing/4512467903",
+      "status": "active",
+      "primary_use": "Compare current and accelerated payoff paths for a single fixed-rate loan.",
+      "compatibility": ["modern desktop browsers"],
+      "claims": ["offline after download", "CSV export", "manual entry", "no bank sync", "one loan at a time"]
+    },
+    {
+      "product_id": "ssl-fin-paycheck",
+      "name": "Paycheck Estimator",
+      "format": "HTML tool",
+      "etsy_listing_id": "4506839330",
+      "etsy_url": "https://www.etsy.com/listing/4506839330",
+      "status": "active",
+      "primary_use": "Estimate paycheck, monthly, and yearly take-home pay from manual inputs.",
+      "compatibility": ["modern desktop browsers", "hosted mobile browser option"],
+      "claims": ["manual entry", "no bank sync", "no seller account", "desktop offline file"]
+    },
+    {
+      "product_id": "ssl-pdf-adhd-planner",
+      "name": "ADHD Planner Kit",
+      "format": "Printable PDF",
+      "etsy_listing_id": "4505975635",
+      "etsy_url": "https://www.etsy.com/listing/4505975635",
+      "status": "active",
+      "primary_use": "Low-friction daily planning, time blocking, brain dumping, habit tracking, and energy tracking.",
+      "compatibility": ["print", "Goodnotes", "Notability"],
+      "claims": ["28 pages", "multiple print sizes", "low-ink variant", "not a medical tool"]
+    },
+    {
+      "product_id": "ssl-pdf-meal-planner",
+      "name": "Weekly Meal Planner Kit",
+      "format": "Printable PDF with bonus HTML",
+      "etsy_listing_id": "4500706450",
+      "etsy_url": "https://www.etsy.com/listing/4500706450",
+      "status": "active",
+      "primary_use": "Plan weekly meals, groceries, pantry and freezer inventory, and grocery spending.",
+      "compatibility": ["print", "PDF reader", "modern browser for bonus HTML"],
+      "claims": ["printable PDF", "bonus HTML", "offline after download", "one-time digital download"]
+    }
+  ]
+}
